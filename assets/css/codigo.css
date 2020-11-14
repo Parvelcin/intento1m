@@ -1,0 +1,236 @@
+.divisiones{
+		width: 100%;
+		height: 650px;
+}
+
+#div2{
+		background-color: rgb(235,236,242);
+		width: 100%;
+		height: 600px;
+}
+
+#iconos{
+		width: 300px;
+		height: 100px;
+		margin-left: 200px;
+		text-align: center;
+		margin-top: 10px;
+}
+
+#iconos2{
+		width: 300px;
+		height: 100px;
+		text-align: center;
+		margin-top: 10px;
+}
+
+#recuadro{
+		display: inline-block;
+		width: 400px;
+		text-align: center;
+}
+
+#linea1{
+		background-color: rgb(115,198,205);
+		width: 100%;
+		height: 100px;
+}
+
+#Galeria{
+		width: 730px;
+		height: 350px;
+		margin-left: 280px;
+}
+
+#subtext{
+		width: 200px;
+		height: 50px;
+		margin: 20px;
+		display: inline-block;
+		vertical-align: middle;
+		text-align: center;
+}
+
+#div3{
+		background-color: rgb(235,236,242);
+		width: 100%;
+		height: 800px;
+}
+
+#linea2{
+		background-color: rgb(115,198,205);
+		width: 100%;
+		height: 400px;
+		background-image: url("../Imagenes/yogallax.jpg");
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+}
+
+#div4{
+		background-color: rgb(235,236,242);
+		width: 100%;
+		height: 900px;
+		margin-top: 0;
+}
+
+#Events{
+		margin-left: 150px;
+		margin-right: 550px;
+}
+
+#typesevents{
+	border-bottom-style: solid;
+	border-bottom-color: white;
+	display: inline-block;
+	border-bottom-width: 1px;
+	margin: 5px;
+	padding-top: 10px;
+}
+
+#typesevents:hover{
+		border-bottom-color: red;
+}
+
+.ct table{
+			/border-style: solid;/
+			text-align: center;
+			margin: auto;
+
+		}
+		.ct tr{
+			/border-style: solid;/
+		}
+		.ct th{
+			width: 10em;
+			/min-height: 10em;/
+			/border-style: solid;/
+		}
+
+#bcc{
+			border-color: white;
+			border-bottom-style:solid;
+
+		}
+		#bcc:hover{
+			border-color: black;
+			border-bottom-style:solid;
+
+		}
+		
+		#bc{
+			border-bottom-style:solid;
+
+		}
+		.ae h3{
+			display: inline-block;
+
+			
+			#EDA41A
+			
+		}
+		#bla{
+			background-color: white;
+		}
+		#ky{
+			background-color:#e8bc6f;
+			color: white;
+		}
+
+		#mf{
+			background-color: #73c6cd;
+			color: white;
+
+		}
+		#ay{
+			color: white;
+			background-color: #cd7399;
+		}
+		#yd{
+			color: white;
+			background-color: #62aed6;
+		}
+		#hy{
+			color: white;
+			background-color: #e4926e;
+		}
+
+#div5{
+		background-color: rgb(98,174,214);
+		width: 100%;
+		height: 200px;
+		margin-top: 0;
+		padding-top: 25px;
+		padding-left: 300px;
+}
+
+#perfil{
+		height: 150px;
+		width: 800px;
+		padding-top: 25px;
+		border-style: solid;
+		border-color: white;
+		border-width: 2px;
+}
+
+#nombre{
+		display: inline-block;
+		margin-left: 10px;
+}
+
+#foto{
+		display: inline-block;
+}
+
+#descript{
+		color: white;
+		display: inline-block;
+		font-size: 10px;
+		padding-right: 120px;
+		padding-left: 100px;
+		text-align: left;
+		padding: 0px;
+		height: 30px;
+		margin-left: 20px;
+}
+
+#div6{
+		background-color: rgb(235,236,242);
+		width: 100%;
+		height: 400px;
+}
+
+#div7{
+		background-color: orange;
+		width: 100%;
+		height: 300px;
+}
+
+#champurrado{
+
+}
+
+#iconito{
+		padding-left: 175px;
+		padding-top: 100px;
+		display: inline-block;
+}
+
+#div8{
+		background-color: lightblue;
+		width: 100%;
+		height: 300px;
+}
+
+#div9{
+		background-color: rgb(235,236,242);
+		width: 100%;
+		height: 400px;
+}
+
+#final{
+		background-color: brown;
+		width: 100%;
+		height: 300px;
+}
